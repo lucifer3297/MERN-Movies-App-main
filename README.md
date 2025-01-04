@@ -1,6 +1,6 @@
 # MERN Movies App
 
-![Movie!](D:\MERN-Movies-App-main\thumb.png)
+![Movie!](thumb.png)
 
 ## Overview
 
